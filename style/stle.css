@@ -1,0 +1,125 @@
+@media (max-width: 1300px) {
+
+
+
+    .card {
+        margin-left: 250px;
+        width: 90px;
+    }
+
+    .MobSubt {
+        font-size: 20px;
+    }
+
+    .MobSubt2 {
+        font-size: 18px;
+    }
+
+    .MobSubt3 {
+        font-size: 22px;
+
+    }
+
+    .fish {
+        width: 100%;
+        height: 150px;
+    }
+}
+
+
+
+.Menu {
+    max-width: 500px;
+    margin: auto;
+}
+
+#sub {
+    font-size: 25px;
+}
+
+
+#imgs {
+    width: 300px;
+    height: 300px;
+    border-radius: 300px
+}
+
+#imgs2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 300px
+}
+
+.Rodape {
+    color: white;
+    width: 100%;
+    padding: 20px;
+    font-size: 15px;
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+
+.photo {
+    width: 50%;
+    border-radius: 18px;
+
+}
+
+.subir {
+    position: fixed;
+    float: right;
+}
+
+.carta {
+    position: absolute;
+    right: 55px;
+    width: 18rem;
+    float: right;
+    cursor: pointer;
+}
+
+.logo {
+    width: 70px;
+}
+
+.fundo {
+    background: rgba(180, 193, 197, 0.281);
+}
+
+.fish {
+    width: 100%;
+    height: 450px;
+}
+
+.texto {
+    text-align: justify;
+}
+
+.btnup {
+    border-radius: 50px;
+    margin: 20px;
+    left: 45px;
+}
+
+
+
+::-webkit-scrollbar {
+    width: 1rem;
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgba(255, 255, 255, 0.493);
+    /* border-radius: 30px; */
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(rgb(28, 36, 114), rgb(48, 73, 214), rgb(101, 132, 233), rgb(1, 181, 252));
+    /* border-radius: 30px; */
+    border: .13rem solid rgb(255, 255, 255);
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(rgba(28, 37, 114, 0.596), rgba(101, 132, 233, 0.582), rgba(1, 181, 252, 0.596));
+}
