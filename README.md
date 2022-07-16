@@ -1,10 +1,7 @@
-# Peixes & Cia  !
+# Peixes & Cia !
 
 # 📋 Sobre o Projeto
-<p>O site ele trás informações sobre peixes <br>
-  De água doce, e a água salgada<br>
-  <a href="https://stanley-felix-bergamo.github.io/Peixes-e-Cia/">Link da página</a>
-</p>
+<p>Saiba mais acessando o site <a href="#">Clicando aki</a></p> 
 
 <h2>💻 Tecnologias utilizadas</h2>
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
