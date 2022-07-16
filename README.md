@@ -1,7 +1,7 @@
 # Peixes & Cia !
 
 # 📋 Sobre o Projeto
-<p>Saiba mais acessando o site <a href="#">Clicando aki</a></p> 
+<p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Peixes-e-Cia/">Clicando aki</a></p> 
 
 <h2>💻 Tecnologias utilizadas</h2>
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
