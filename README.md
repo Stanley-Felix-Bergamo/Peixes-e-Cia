@@ -1,9 +1,5 @@
 # Peixes & Cia  !
 
-![Design_sem_nome-removebg-preview](https://user-images.githubusercontent.com/48367763/150560355-79b9c698-2618-445f-95ff-65ae335e9ec2.png)
-
-
-
 # 📋 Sobre o Projeto
 <p>O site ele trás informações sobre peixes <br>
   De água doce, e a água salgada<br>
@@ -19,6 +15,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://camo.githubusercontent.com/84746920d1a9906680c387b3cc8753ee842e996fc8915abd295011e15b594b74/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e312f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67">&nbsp; Bootstrap&emsp; 
 </div> 
 
-
-<h2>📕 Licença</h2>
-Esse projeto está sob a licença MIT. Veja o arquivo<a href="https://github.com/Stanley-Felix-Bergamo/Peixes-e-Cia/blob/master/LICENSE"> LICENSE </a>para mais detalhes.
